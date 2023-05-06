@@ -41,17 +41,17 @@ Gmail邮箱也需要科学上网后申请，注册地址：[mail.google.com](htt
 
 Microsoft Edge下载地址：[打开地址](https://www.microsoft.com/zh-cn/edge/download)
 
-如果大家习惯使用Chrome,默认是不支持使用Bing Chat的，可以下载插件Chrome Unlock New Bing AI
+如果大家习惯使用Chrome，默认是不支持使用Bing Chat的，可以下载插件Chrome Unlock New Bing AI
 
 下载地址：[Chrome Unlock New Bing AI](https://chrome.google.com/webstore/detail/chrome-unlock-new-bing-ai/nglhdhdfndbadmaiieikpefenkbgpdbf/related?hl=zh-CN)
 
 ## 使用Bing Chat
 
-打开bing.com，点击上方聊天连接打开页面：
+打开bing.com，点击上方聊天链接打开页面：
 
 ![image](https://raw.githubusercontent.com/winston779/BingChat/main/3.jpg)
 
-选择更有创造力可以生成图片：
+选择对话样式更有创造力可以生成图片：比如生成一张卡通猫咪图片
 
 ![image](https://raw.githubusercontent.com/winston779/BingChat/main/4.jpg)
 
